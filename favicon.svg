@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="#8c65e8"/><text x="7" y="45" font-family="Georgia,serif" font-size="40" fill="#10100f">CL</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="#8c65e8"/><ellipse cx="24" cy="12" rx="15" ry="5" fill="none" stroke="#65001e" stroke-width="2" transform="rotate(-10 24 12)"/><path d="M45 27C40 21 29 19 21 24C8 32 13 51 26 54C33 56 40 53 45 47" fill="none" stroke="#65001e" stroke-width="5" stroke-linecap="round"/></svg>
