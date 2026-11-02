@@ -1,4 +1,4 @@
-# Concetta Luise — website preview
+# Concetta — website preview
 
 This repository contains only the rendered review website. The editable project, CMS configuration, drafts and private handoff materials are maintained separately.
 
